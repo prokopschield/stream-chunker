@@ -1,0 +1,17 @@
+{
+    "name": "@prokopschield/stream-chunker",
+    "description": "Splits up streamed data into chunks of a particular size.",
+    "version": "0.1.0-1",
+    "main": "lib/index.js",
+    "author": "Prokop Schield",
+    "devDependencies": {
+        "@types/node": ">=14"
+    },
+    "keywords": [],
+    "license": "LGPL-3.0-or-later",
+    "prettier": {
+        "useTabs": false,
+        "tabWidth": 4,
+        "singleQuote": true
+    }
+}
